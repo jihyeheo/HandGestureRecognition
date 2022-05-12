@@ -1,4 +1,5 @@
 ## Hand Gesture Recognition
+## 데이크루 2기, 첫번째 프로젝트
 
 </br>
 
