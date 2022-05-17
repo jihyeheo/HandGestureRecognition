@@ -1,6 +1,5 @@
-## Hand Gesture Recognition
-## 데이크루 2기, 첫번째 프로젝트
-
+## Hand Gesture Recognition [2022.04.12 ~ 2022.05.14]
+## 데이크루 2기, 첫번째 프로젝트 [SITE LINK](https://dacon.io/codeshare/4956?page=1&dtype=recent)
 </br>
 
 ### Pipeline
