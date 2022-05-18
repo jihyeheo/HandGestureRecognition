@@ -1,7 +1,13 @@
 ## Hand Gesture Recognition [2022.04.12 ~ 2022.05.14]
 ## 데이크루 2기, 첫번째 프로젝트 [SITE LINK](https://dacon.io/codeshare/4956?page=1&dtype=recent)
-</br>
+### 멤버 : 전다운(프로젝트 팀장), 강수연, 이태범, 허지혜
 
+1. 한 손 동작을 인식하여 4가지 동작(yes, no, rotate, shake)을 분류하고 화면에 나타내는 프로젝트<br>
+-> 한 손으로 인식을 잘 못하고 동작의 시퀀스도 비슷하여 분류를 잘 못하는 문제를 발견<br>
+2. 두 손 동작을 인식하여 4가지 동작(yes, no, good, heart)를 분류하고 화면에 나타내는 프로젝트<br>
+
+
+## 한 손 인식 (examples 폴더 참고)
 ### Pipeline
 - create_dataset
     - mediapipe를 활용하여 웹캠이미지로부터 손동작 좌표를 추출하여 데이터셋을 직접 생성합니다.
