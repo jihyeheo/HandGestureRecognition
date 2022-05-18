@@ -1,4 +1,4 @@
-### User Guide [예제 동작 순서]
+## 두 손 동작 (multi_hand_examples 폴더 참고)
 
 1. making_video.py
 - 원하는 양 손 제스쳐 동영상을 촬영합니다.
